@@ -1,0 +1,1 @@
+{"stage": "DONE", "stage_label": "Training Complete!", "step": "Best model: Random Forest | Accuracy: 96.41% | F1: 44.94%", "gen": 15, "total_gens": 15, "best_f1": 0.44939999999999997, "features": 20, "pso_iter": 8, "total_pso": 8, "done": true, "error": null, "algo": "Random Forest", "metrics": {"accuracy": 96.41, "precision": 44.44, "recall": 45.45, "f1": 44.94}}
